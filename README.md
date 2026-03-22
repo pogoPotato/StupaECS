@@ -28,7 +28,7 @@ This separates data from logic, making your code cache-friendly, modular, and ea
 ## Installation
 Just copy the header files into your project:
 ```
-ecs/
+StupaECS/
   ecs.h
   component_manager.h
   entity_manager.h
